@@ -25,7 +25,7 @@ tagline: hey # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
  
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://saffron3.github.io"
+url: 
 
 github:
   username: subedisapana # change to your github username
